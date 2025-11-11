@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache files
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Django & Channels
+db.sqlite3
+*.log
+
+# VSCode / PyCharm / Editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.env
+
+# Static files (if collected automatically)
+staticfiles/
+static/
+
+# Cache
+*.cache
